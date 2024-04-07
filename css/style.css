@@ -1,0 +1,127 @@
+.header{
+	background: #7D1C1C;;
+}
+.container{
+	margin: 0 auto;
+	width: 1200px;
+}
+.container_header{
+	display: flex;
+	padding: 36px 0;
+	align-items: center;
+}
+.nav_list{
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	width: 600px;
+}
+.nav_link{
+	color: #FFF;
+	font-family: Oswald;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+}
+.header_title{
+	color: #FFF;
+	font-family: Akaya Telivigala;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-right: auto;
+	margin-left: 10px;
+}
+.logo{
+	width: 43px;
+	height: 43px;
+}
+
+.hero-block
+{
+	background:#2C2C2C;
+}
+.hero-block_title
+{
+	color: skyblue;
+	font-size: 60px;
+	font-weight:300;
+}
+.hero-block_btn
+{
+width: 256px;
+height: 80px;
+background:#CC960A;
+color:red ;
+font-size: 20px;
+font-weight: 300px;
+}
+.container_hero-block
+{
+display: flex;
+padding: 50px 0;
+}
+.hero-block_content
+{
+    margin-top: 100px;
+    margin-left: auto;
+}
+.about{
+	background: rgb(60, 9, 100);
+}
+.container_about{
+	padding: 50px 0;
+}
+.about__title{
+	color: rgb(228, 228, 228);
+font-family: Nico Moji;
+font-size: 48px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0%;
+text-align:center;
+margin-bottom: 20px;
+}
+.about__content{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.about_text{
+	color: #FFF;
+	font-family: Akaya Telivigala;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-right: auto;
+	margin-left: 10px;
+}
+.video{
+background:#2C2C2C;
+
+}
+.container_video{
+	padding: 100px 0;
+}
+.video__title{
+
+	color: rgb(228, 228, 228);
+font-family: Nico Moji;
+font-size: 48px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0%;
+text-align:center;
+margin-bottom: 20px;
+}
+.video__video{
+	width: 100%;
+	height: 650px;
+	box-sizing: border-box;
+	border: 50px solid red;
+	border-radius: 20px;
+}
